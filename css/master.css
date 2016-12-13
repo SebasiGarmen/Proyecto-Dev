@@ -29,9 +29,17 @@
 #contacto{
   margin-top: 20px;
 }
-
 #iniciar_sesion{
   margin-top: 20px;
+}
+#ong{
+  font-family: verdana;
+}
+#peticiones{
+  font-family:verdana;
+}
+#donaciones{
+  font-family: verdana;
 }
 
 /*<!-- !!!!!!!!!!!!!!!!!!!!!!!!!!!! !!!!!!!! !!!!!!!!!!!!!!!!!!!!!!!!!!!! -->
