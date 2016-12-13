@@ -14,9 +14,25 @@
 #header_de_inicio{
   padding-right: 30px;
   left: 60px;
+  margin-top: 20px;
+
 }
 
+#logo{
+  width: 90px;
+  display: inline-block;
+  float: left;
+  margin: 10px;
 
+}
+
+#contacto{
+  margin-top: 20px;
+}
+
+#iniciar_sesion{
+  margin-top: 20px;
+}
 
 /*<!-- !!!!!!!!!!!!!!!!!!!!!!!!!!!! !!!!!!!! !!!!!!!!!!!!!!!!!!!!!!!!!!!! -->
 <!-- !!!!!!!!!!!!!!!!!!!!!!!!!!!END HEADER!!!!!!!!!!!!!!!!!!!!!!!!!!!!! -->
@@ -70,3 +86,48 @@
 /*<!-- !!!!!!!!!!!!!!!!!!!!!!!!!!!! !!!!!!!! !!!!!!!!!!!!!!!!!!!!!!!!!!
 <!-- !!!!!!!!!!!!!!!!!!!!!!END OF CAROUSEL!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 /*<!-- !!!!!!!!!!!!!!!!!!!!!!!!!!!! !!!!!!!! !!!!!!!!!!!!!!!!!!!!!!!!!!!!*/
+
+
+
+
+
+
+
+
+
+
+.imagen_div{
+  background-image: url("../img/imagen_2.jpg");
+  width: 100%;
+  height: 250px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 0px -150px;
+  margin-top: 10px;
+  margin-bottom: 30px;
+}
+
+.mascara{
+  background-color: rgba(66, 212, 124, 0.39);
+  font-size: 60px;
+  text-align: center;
+  width: 100%;
+  height: 100%;
+
+  color: white;
+  font-size: 3em;
+  font-family: verdana;
+  line-height: 250px;
+
+  }
+
+#nosotros{
+  width: 700px;
+  height: 400px;
+  border-style: dashed;
+  margin-left: 300px;
+}
+
+p{
+  font-size: 20px;
+}
