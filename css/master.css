@@ -33,13 +33,16 @@
   margin-top: 20px;
 }
 #ong{
-  font-family: verdana;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 20px;
 }
 #peticiones{
-  font-family:verdana;
+font-family: 'Josefin Sans', sans-serif;
+font-size: 20px;
 }
 #donaciones{
-  font-family: verdana;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 20px;
 }
 
 /*<!-- !!!!!!!!!!!!!!!!!!!!!!!!!!!! !!!!!!!! !!!!!!!!!!!!!!!!!!!!!!!!!!!! -->
