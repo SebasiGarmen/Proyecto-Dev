@@ -29,9 +29,20 @@
 #contacto{
   margin-top: 20px;
 }
-
 #iniciar_sesion{
   margin-top: 20px;
+}
+#ong{
+font-family: 'Julius Sans One', sans-serif;
+  font-size: 20px;
+}
+#peticiones{
+font-family: 'Julius Sans One', sans-serif;
+font-size: 20px;
+}
+#donaciones{
+font-family: 'Julius Sans One', sans-serif;
+  font-size: 20px;
 }
 
 /*<!-- !!!!!!!!!!!!!!!!!!!!!!!!!!!! !!!!!!!! !!!!!!!!!!!!!!!!!!!!!!!!!!!! -->
@@ -130,4 +141,8 @@
 
 p{
   font-size: 18px;
+}
+
+p{
+  font-size: 20px;
 }
