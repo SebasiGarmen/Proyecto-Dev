@@ -400,7 +400,7 @@ font-family: 'Lato', sans-serif;
 }
 
 #mascara1{
-background-color: rgba(233, 144, 9, 0.19);
+background-color: rgba(255, 255, 255, 0.38);
 font-size: 60px;
 text-align: center;
 width: 395px;
@@ -415,7 +415,7 @@ overflow: hidden;
 }
 
 #mascara2{
- background-color: rgba(233, 144, 9, 0.19);
+ background-color: rgba(255, 255, 255, 0.38);
  font-size: 60px;
  text-align: center;
  width: 410px;
@@ -431,7 +431,7 @@ overflow: hidden;
 
 
  #mascara3{
-  background-color: rgba(233, 144, 9, 0.19);
+  background-color: rgba(255, 255, 255, 0.38);
   font-size: 60px;
   text-align: center;
   width: 408px;
@@ -447,7 +447,7 @@ overflow: hidden;
 
 
 #mascara4{
- background-color: rgba(233, 144, 9, 0.19);
+ background-color: rgba(255, 255, 255, 0.38);
  font-size: 60px;
  text-align: center;
  width: 395px;
@@ -464,7 +464,7 @@ overflow: hidden;
 
 
  #mascara5{
-  background-color: rgba(233, 144, 9, 0.19);
+  background-color: rgba(255, 255, 255, 0.38);
   font-size: 60px;
   text-align: center;
   width: 410px;
@@ -480,7 +480,7 @@ overflow: hidden;
 
 
   #mascara6{
-   background-color:rgba(233, 144, 9, 0.19) ;
+   background-color: rgba(255, 255, 255, 0.38) ;
    font-size: 60px;
    text-align: center;
    width: 408px;
@@ -499,19 +499,33 @@ overflow: hidden;
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
    #info1{
      background-image: url("../img/portfolio/thumbnails/1.jpg");
      background-size: 105%;
      background-repeat: no-repeat;
+     padding: 0px;
 
    }
 
    #mascara_info1{
-   background-color: rgba(220, 0, 247, 0.29);
+   background-color: rgb(51, 122, 183);
    font-size: 60px;
    text-align: center;
-   width: 395px;
-   height: 300px;
+   width: 1200px;
+   height: 500px;
 
    color: rgba(255, 255, 255, 0.58);
    font-size: 3em;
@@ -519,4 +533,62 @@ overflow: hidden;
    line-height: 250px;
    overflow: hidden;
 
+   }
+
+
+
+
+
+   #info2{
+     background-image: url("../img/portfolio/thumbnails/1.jpg");
+     background-size: 105%;
+     background-repeat: no-repeat;
+     padding: 0px;
+
+   }
+
+   #mascara_info2{
+   background-color: rgb(51, 122, 183);
+   font-size: 60px;
+   text-align: center;
+   width: 1200px;
+   height: 500px;
+
+   color: rgba(255, 255, 255, 0.58);
+   font-size: 3em;
+   font-family: verdana;
+   line-height: 250px;
+   overflow: hidden;
+
+   }
+
+
+
+
+   #info3{
+     background-image: url("../img/portfolio/thumbnails/1.jpg");
+     background-size: 105%;
+     background-repeat: no-repeat;
+     padding: 0px;
+
+   }
+
+   #mascara_info3{
+   background-color: rgb(51, 122, 183);
+   font-size: 60px;
+   text-align: center;
+   width: 1200px;
+   height: 500px;
+
+   color: rgba(255, 255, 255, 0.58);
+   font-size: 3em;
+   font-family: verdana;
+   line-height: 250px;
+   overflow: hidden;
+
+   }
+
+   p{
+     font-size: 25px;
+     color: white;
    }
