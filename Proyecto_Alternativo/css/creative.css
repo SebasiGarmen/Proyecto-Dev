@@ -5,7 +5,7 @@
 
 header {
   text-align: center;
-  background: #F7EF6A;
+  background: #6af76c;
   color: white;
 }
 
@@ -596,3 +596,8 @@ overflow: hidden;
    .titulo{
      color: black;
    }
+
+ .titulodecatego{
+   font-size: 6em;
+   font-family: verdana;
+ }
