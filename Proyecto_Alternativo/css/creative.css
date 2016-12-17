@@ -601,6 +601,11 @@ overflow: hidden;
    font-size: 6em;
    font-family: verdana;
  }
+<<<<<<< HEAD
+ .caption h4{
+  font-size: 12px;
+ }
+=======
 
 .imagen_categoria{
     background-image: url("../img/portfolio/thumbnails/1.jpg");
@@ -630,3 +635,4 @@ overflow: hidden;
   background-repeat: no-repeat;
 
 }
+>>>>>>> 9b6891a9060d3ae6e379a3a24c91620f61786e82
