@@ -601,3 +601,6 @@ overflow: hidden;
    font-size: 6em;
    font-family: verdana;
  }
+ .caption h4{
+  font-size: 12px;
+ }
