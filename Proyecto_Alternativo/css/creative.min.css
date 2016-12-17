@@ -347,42 +347,155 @@ font-family: 'Lato', sans-serif;
    color:#fff;background:0 0
  }
 
- .categorias{
-   display: inline-block;
-   width: 33%;
-   height: 299px;
-   overflow: hidden;
+ .contorno{
+   width: 410px;
+   height: 300px;
  }
 
- #f1{
-   position: relative;
-   width: 100%;
- }
- #f2{
-   position: relative;
-   width: 109%;
-   right: 35px;
- }
- #f3{
-   position: relative;
-   width: 121%;
-   right: 35px;
- }
- #f4{
-   position: relative;
-   width: 115%;
-   right: 35px;
- }
- #f5{
-   position: relative;
-   width: 108%;
-   bottom: 2px;
- }
- #f6{
-   position: relative;
-   width: 110%;
+#f1{
+  background-image: url("../img/portfolio/thumbnails/1.jpg");
+  background-size: 105%;
+  background-repeat: no-repeat;
+
+}
+
+#f2{
+  background-image: url("../img/portfolio/thumbnails/2.jpg");
+  background-size: 110%;
+  background-repeat: no-repeat;
+  padding: 0px;
+
+}
+
+#f3{
+  background-image: url("../img/portfolio/thumbnails/3.jpg");
+  background-size: 125%;
+  background-repeat: no-repeat;
+  background-position: -35px 0px;
+  padding: 0px;
+}
+
+#f4{
+  background-image: url("../img/portfolio/thumbnails/4.jpg");
+  background-size: 120%;
+  background-repeat: no-repeat;
+     background-position: -35px 0px;
+
+}
+
+#f5{
+  background-image: url("../img/portfolio/thumbnails/5.jpg");
+  background-size: 110%;
+  background-repeat: no-repeat;
+  padding: 0px;
+
+}
+
+#f6{
+  background-image: url("../img/portfolio/thumbnails/6.jpg");
+  background-size: 110%;
+  background-repeat: no-repeat;
+  padding: 0px;
+
+}
+
+#mascara1{
+background-color: rgba(0, 99, 247, 0.29);
+font-size: 60px;
+text-align: center;
+width: 395px;
+height: 300px;
+
+color: rgba(255, 255, 255, 0.58);
+font-size: 3em;
+font-family: verdana;
+line-height: 250px;
+overflow: hidden;
+
+}
+
+#mascara2{
+ background-color: rgba(0, 99, 247, 0.29);
+ font-size: 60px;
+ text-align: center;
+ width: 410px;
+ height: 300px;
+
+ color: rgba(255, 255, 255, 0.58);
+ font-size: 3em;
+ font-family: verdana;
+ line-height: 250px;
+ overflow: hidden;
+
  }
 
+
+ #mascara3{
+  background-color: rgba(0, 99, 247, 0.29);
+  font-size: 60px;
+  text-align: center;
+  width: 408px;
+  height: 300px;
+
+  color: rgba(255, 255, 255, 0.58);
+  font-size: 3em;
+  font-family: verdana;
+  line-height: 250px;
+  overflow: hidden;
+
+  }
+
+
+#mascara4{
+ background-color: rgba(0, 99, 247, 0.29);
+ font-size: 60px;
+ text-align: center;
+ width: 395px;
+ height: 300px;
+
+ color: rgba(255, 255, 255, 0.58);
+ font-size: 3em;
+ font-family: verdana;
+ line-height: 250px;
+ overflow: hidden;
+
+ }
+
+<<<<<<< HEAD
  .skills {
    
  }
+=======
+
+
+ #mascara5{
+  background-color: rgba(0, 99, 247, 0.29);
+  font-size: 60px;
+  text-align: center;
+  width: 410px;
+  height: 300px;
+
+  color: rgba(255, 255, 255, 0.58);
+  font-size: 3em;
+  font-family: verdana;
+  line-height: 250px;
+  overflow: hidden;
+
+  }
+
+
+  #mascara6{
+   background-color: rgba(0, 99, 247, 0.29);
+   font-size: 60px;
+   text-align: center;
+   width: 408px;
+   height: 300px;
+
+   color: rgba(255, 255, 255, 0.58);
+   font-size: 3em;
+   font-family: verdana;
+   line-height: 250px;
+   overflow: hidden;
+
+   }
+>>>>>>> a815e6f7fc6a57cdf6e6da7301b48761dd64c934
