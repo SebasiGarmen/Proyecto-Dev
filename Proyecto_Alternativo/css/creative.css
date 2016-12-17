@@ -5,7 +5,7 @@
 
 header {
   text-align: center;
-  background: #1FB58F;
+  background: #7CDBD5;
   color: white;
 }
 
@@ -54,19 +54,19 @@ header .intro-text .skills {
  }
 
  hr{
-   border-color:#CAEBF2;border-width:3px;max-width:50px
+   border-color:#F9BE02;border-width:3px;max-width:50px
  }
 
  hr.light{
-   border-color:#fff
+   border-color:#F9BE02
  }
 
  a{
-   transition:all .35s;color:#EAB126
+   transition:all .35s;color:#FC4A1A
  }
 
  a:focus,a:hover{
-   color:#F7EF6A
+   color:#F9BE02
  }
 
  p{
@@ -283,7 +283,7 @@ font-family: 'Lato', sans-serif;
  }
 
  .text-primary{
-   color:#465C8B}
+   color:#02C8A7}
 
  }
 
