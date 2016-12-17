@@ -5,7 +5,7 @@
 
 header {
   text-align: center;
-  background: #6af76c;
+  background: #7CDBD5;
   color: white;
 }
 
@@ -54,19 +54,19 @@ header .intro-text .skills {
  }
 
  hr{
-   border-color:#CAEBF2;border-width:3px;max-width:50px
+   border-color:#F9BE02;border-width:3px;max-width:50px
  }
 
  hr.light{
-   border-color:#fff
+   border-color:#F9BE02
  }
 
  a{
-   transition:all .35s;color:rgb(75, 204, 127)
+   transition:all .35s;color:#FC4A1A
  }
 
  a:focus,a:hover{
-   color:#E9B000
+   color:#F9BE02
  }
 
  p{
@@ -283,7 +283,7 @@ font-family: 'Lato', sans-serif;
  }
 
  .text-primary{
-   color:#465C8B}
+   color:#02C8A7}
 
  }
 
@@ -308,7 +308,7 @@ font-family: 'Lato', sans-serif;
  }
 
  .btn-primary{
-   color:#fff;background-color:rgb(75, 204, 127);border-color:rgb(75, 204, 127);-webkit-transition:all .35s;-moz-transition:all .35s;transition:all .35s
+   color:#fff;background-color:#E24E42;border-color:rgb(75, 204, 127);-webkit-transition:all .35s;-moz-transition:all .35s;transition:all .35s
  }
 
  .btn-primary.active,.btn-primary.focus,.btn-primary:active,.btn-primary:focus,.btn-primary:hover,.open>.dropdown-toggle.btn-primary{
@@ -601,3 +601,32 @@ overflow: hidden;
    font-size: 6em;
    font-family: verdana;
  }
+
+.imagen_categoria{
+    background-image: url("../img/portfolio/thumbnails/1.jpg");
+    background-size: 105%;
+    background-repeat: no-repeat;
+}
+
+
+.palabras a{
+  color: rgb(11, 66, 205)
+}
+
+.palabras a:hover{
+  text-decoration: none;
+  color: rgb(25, 162, 80)
+}
+
+
+.contorno2{
+  width: 600px;
+  height: 300px;
+}
+
+#f11{
+  background-image: url("../img/portfolio/thumbnails/1.jpg");
+  background-size: 105%;
+  background-repeat: no-repeat;
+
+}
